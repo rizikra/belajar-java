@@ -1,5 +1,5 @@
 public class helloWorld{
-		public static void main (String args []){
+		public static void main (String[] args){
 			System.out.println("Hello Dunia");
 			mobil bmw = new mobil();//kita bangun object mobil bmw
 			bmw.merk = "BMW i3000";
